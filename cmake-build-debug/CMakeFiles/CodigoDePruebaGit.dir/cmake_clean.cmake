@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CodigoDePruebaGit.dir/imprimir_prueba.c.obj"
   "CMakeFiles/CodigoDePruebaGit.dir/main.c.obj"
   "CodigoDePruebaGit.exe"
   "CodigoDePruebaGit.exe.manifest"

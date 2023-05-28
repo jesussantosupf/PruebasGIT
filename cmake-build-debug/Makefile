@@ -142,6 +142,33 @@ CodigoDePruebaGit/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodigoDePruebaGit.dir\build.make CMakeFiles/CodigoDePruebaGit.dir/build
 .PHONY : CodigoDePruebaGit/fast
 
+imprimir_prueba.obj: imprimir_prueba.c.obj
+
+.PHONY : imprimir_prueba.obj
+
+# target to build an object file
+imprimir_prueba.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodigoDePruebaGit.dir\build.make CMakeFiles/CodigoDePruebaGit.dir/imprimir_prueba.c.obj
+.PHONY : imprimir_prueba.c.obj
+
+imprimir_prueba.i: imprimir_prueba.c.i
+
+.PHONY : imprimir_prueba.i
+
+# target to preprocess a source file
+imprimir_prueba.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodigoDePruebaGit.dir\build.make CMakeFiles/CodigoDePruebaGit.dir/imprimir_prueba.c.i
+.PHONY : imprimir_prueba.c.i
+
+imprimir_prueba.s: imprimir_prueba.c.s
+
+.PHONY : imprimir_prueba.s
+
+# target to generate assembly for a file
+imprimir_prueba.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodigoDePruebaGit.dir\build.make CMakeFiles/CodigoDePruebaGit.dir/imprimir_prueba.c.s
+.PHONY : imprimir_prueba.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -178,6 +205,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CodigoDePruebaGit
+	@echo ... imprimir_prueba.obj
+	@echo ... imprimir_prueba.i
+	@echo ... imprimir_prueba.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

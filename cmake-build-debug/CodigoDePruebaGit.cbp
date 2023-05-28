@@ -76,6 +76,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/cmake-build-debug/imprimir_prueba.c">
+			<Option target="CodigoDePruebaGit"/>
+		</Unit>
 		<Unit filename="C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/main.c">
 			<Option target="CodigoDePruebaGit"/>
 		</Unit>

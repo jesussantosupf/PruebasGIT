@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/cmake-build-debug/imprimir_prueba.c" "C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/cmake-build-debug/CMakeFiles/CodigoDePruebaGit.dir/imprimir_prueba.c.obj"
   "C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/main.c" "C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/cmake-build-debug/CMakeFiles/CodigoDePruebaGit.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
