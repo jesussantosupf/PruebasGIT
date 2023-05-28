@@ -1,0 +1,3 @@
+C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/cmake-build-debug/CMakeFiles/CodigoDePruebaGit.dir
+C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jesus/OneDrive/Escritorio/CodigoDePruebaGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
